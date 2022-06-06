@@ -8,4 +8,4 @@ edition = "2018"
 [dependencies]
 addr2line = ">= 0.18.0"
 Simple-Wayland-HotKey-Daemon = "<= 1.2.0"
-ckb = "= 0.102.0"
+ckb = "= 0.37.0"
