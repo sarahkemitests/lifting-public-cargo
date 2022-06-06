@@ -6,5 +6,6 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-addr2line = ">= 0.15.0"
-Simple-Wayland-HotKey-Daemon = "<= 1.1.5"
+addr2line = ">= 0.18.0"
+Simple-Wayland-HotKey-Daemon = "<= 1.2.0"
+ckb = "= 0.102.0"
